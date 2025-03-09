@@ -1,0 +1,238 @@
+     İNSAN İMPARATORLUGU  
+
+ piyade sayi:1000.00
+ piyade toplam saglik:100000.00
+ piyade toplam savunma:52000.00
+ piyade toplam hasar:30000.00
+
+ suvari sayi:1000.00
+ suvari toplam saglik:120000.00
+ suvari toplam savunma:39000.00
+ suvari toplam hasar:50000.00
+
+ kusatma makinesi sayi:1000.00
+ kusatma makinesi toplam saglik:150000.00
+ kusatma makinesi savunma:65000.00
+ kusatma makinesi hasar:100000.00
+
+ okcu sayi:1000.00
+ okcu toplam saglik:80000.00
+ okcu savunma:26000.00
+ okcu  hasar:40000.00
+
+     ORK İMPARATORLUGU  
+
+ org dovuscu sayi:1000.00
+  org dovuscu toplam saglik:100000.00
+ org dovuscu toplam savunma:25000.00
+ org dovuscu toplam hasar:45500.00
+
+ troller sayi:1000.00
+ troller toplam saglik:200000.00
+ troller toplam savunma:40000.00
+ troller toplam hasar:91000.00
+
+ mizrakci sayi:1000.00
+ mizrakci  toplam saglik:90000.00
+ mizrakci  savunma:20000.00
+ mizrakci  hasar:58500.00
+
+ Varg binici sayi:1000.00
+ Varg binici toplam saglik:130000.00
+ Varg binici savunma:35000.00
+ Varg binci  hasar:71500.00
+
+      KAHRAMANLAR
+
+
+insan kahramani: 
+ork kahramani: C
+       CANAVARLAR
+
+
+ insan canavari c
+ork canavari: e
+
+       ARASTIRMA SEVİYESİ
+
+
+insan arastirmasi: savunma_ustaligi 3
+org arastirmasi: saldiri_gelistirmesi 3
+
+tur:1
+
+Insanlar saldirdi
+
+ork ordu alınan toplam hasar:100000.00
+
+kalan mizrakci:814.81
+mizrakci aldığı hasar:16666.67
+mizrakci toplam saglik:73333.34
+mizrakci toplam savunma:18000.00
+
+kalan varg binici:775.64
+varg binici alınan hasar:29166.67
+varg binici toplam saglik:100833.34
+ varg binici toplam savunma:31500.00
+
+kalan  troller:833.33
+troller alınan hasar:33333.34
+troller toplam saglik:166666.66
+ troller toplam savunma:36000.00
+
+kalan ork dovuscu:833.33
+ork dovuscu alınan hasar:20833.33
+ork dovuscu toplam saglik:79166.67
+ ork dovuscu toplam savunma:22500.00
+
+
+tur:2
+
+Orklar saldirdi
+
+ınsan ordu alınan toplam hasar:25368.59
+
+kalan okcu:954.70
+okcu alınan hasar:3624.08
+okcu toplam saglik:76375.91
+okcu  toplam savunma:20000.00
+
+kalan suvari:954.70
+suvari alınan hasar:5436.13
+suvari toplam saglik:114563.87
+suvari toplam savunma:30000.00
+
+kalan piyade:927.52
+piyade alınan hasar:7248.17
+piyade toplam saglik:92751.83
+piyade  savunma:40000.00
+
+kalan kusatma makinesi:939.60
+kusatma makinesi alınan hasar:9060.21
+kusatma makinesi toplam saglik:140939.78
+kusatma makinesi  savunma:50000.00
+
+
+tur:3
+
+Insanlar saldirdi
+
+ork ordu alınan toplam hasar:111139.58
+
+kalan mizrakci:606.42
+mizrakci aldığı hasar:18755.18
+mizrakci toplam saglik:54578.16
+mizrakci toplam savunma:16296.30
+
+kalan varg binici:535.31
+varg binici alınan hasar:31243.60
+varg binici toplam saglik:69589.73
+ varg binici toplam savunma:27147.44
+
+kalan  troller:641.52
+troller alınan hasar:38362.86
+troller toplam saglik:128303.81
+ troller toplam savunma:33333.33
+
+kalan ork dovuscu:641.52
+ork dovuscu alınan hasar:22777.95
+ork dovuscu toplam saglik:56388.72
+ ork dovuscu toplam savunma:19791.67
+
+
+tur:4
+
+Orklar saldiri gucleri yetmedigi için bu tur saldiramadilar.
+
+tur:5
+
+Insanlar saldirdi
+
+ork ordu alınan toplam hasar:137086.19
+
+kalan mizrakci:344.84
+mizrakci aldığı hasar:23542.86
+mizrakci toplam saglik:31035.29
+mizrakci toplam savunma:12128.48
+
+kalan varg binici:255.55
+varg binici alınan hasar:36368.29
+varg binici toplam saglik:33221.45
+ varg binici toplam savunma:18735.70
+
+kalan  troller:392.47
+troller alınan hasar:49810.68
+troller toplam saglik:78493.13
+ troller toplam savunma:25660.76
+
+kalan ork dovuscu:392.47
+ork dovuscu alınan hasar:27364.35
+ork dovuscu toplam saglik:29024.37
+ ork dovuscu toplam savunma:14097.18
+
+
+tur:6
+
+Orklar saldiri gucleri yetmedigi için bu tur saldiramadilar.
+
+tur:7
+
+Insanlar saldirdi
+
+ork ordu alınan toplam hasar:168912.63
+
+kalan mizrakci:11.20
+mizrakci aldığı hasar:30027.70
+mizrakci toplam saglik:1007.59
+mizrakci toplam savunma:6896.73
+
+kalan varg binici:0.00
+varg binici alınan hasar:38942.33
+varg binici toplam saglik:0.00
+ varg binici toplam savunma:0.00
+
+kalan  troller:50.71
+troller alınan hasar:68350.28
+troller toplam saglik:10142.85
+ troller toplam savunma:15698.63
+
+kalan ork dovuscu:50.71
+ork dovuscu alınan hasar:31592.31
+ork dovuscu toplam saglik:0.00
+ ork dovuscu toplam savunma:0.00
+
+
+tur:8
+
+Orklar saldiri gucleri yetmedigi için bu tur saldiramadilar.
+
+tur:9
+
+Insanlar saldirdi
+
+ork ordu alınan toplam hasar:205455.83
+
+kalan mizrakci:0.00
+mizrakci aldığı hasar:20423.54
+mizrakci toplam saglik:0.00
+mizrakci toplam savunma:0.00
+
+kalan varg binici:0.00
+varg binici alınan hasar:0.00
+varg binici toplam saglik:0.00
+ varg binici toplam savunma:0.00
+
+kalan  troller:0.00
+troller alınan hasar:185032.28
+troller toplam saglik:0.00
+ troller toplam savunma:0.00
+
+kalan ork dovuscu:0.00
+ork dovuscu alınan hasar:0.00
+ork dovuscu toplam saglik:0.00
+ ork dovuscu toplam savunma:0.00
+
+
+tur:10
+
+Insanlar kazandi 
